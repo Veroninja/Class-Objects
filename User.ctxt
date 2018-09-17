@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=User
+comment0.text=\n\ Object\ user\ \u2013\ to\ be\ called\ by\ class\ Game\n
+comment1.params=theName\ theType\ theAge\ theHeight
+comment1.target=User(java.lang.String,\ java.lang.String,\ int,\ int)
+comment10.params=
+comment10.target=void\ printUserInfo()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=newType
+comment4.target=void\ setType(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getType()
+comment6.params=newAge
+comment6.target=void\ setAge(int)
+comment7.params=
+comment7.target=int\ getAge()
+comment8.params=newHeight
+comment8.target=void\ setHeight(int)
+comment9.params=
+comment9.target=int\ getHeight()
+numComments=11
